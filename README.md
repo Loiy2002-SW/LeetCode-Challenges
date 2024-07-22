@@ -33,9 +33,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0344-reverse-string) |
 | [2502-sort-the-people](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2502-sort-the-people) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
