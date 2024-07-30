@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0344-reverse-string) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3379-score-of-a-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/3379-score-of-a-string) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Shortest Path
 |  |
 | ------- |
@@ -105,4 +107,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1511-count-number-of-teams) |
+## Stack
+|  |
+| ------- |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
