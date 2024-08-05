@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2502-sort-the-people) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2502-sort-the-people) |
 ## String
 |  |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0344-reverse-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -93,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0948-sort-an-array) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Trie
 |  |
 | ------- |
