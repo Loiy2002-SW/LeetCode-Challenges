@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1511-count-number-of-teams](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0870-magic-squares-in-grid) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -147,4 +150,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0273-integer-to-english-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
