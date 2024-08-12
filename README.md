@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -158,4 +159,24 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0789-kth-largest-element-in-a-stream) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
