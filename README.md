@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0040-combination-sum-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1196-filling-bookcase-shelves) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1333-sort-the-jumbled-numbers) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Matrix
 |  |
