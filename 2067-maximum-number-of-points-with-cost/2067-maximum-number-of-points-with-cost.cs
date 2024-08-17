@@ -13,18 +13,15 @@ public class Solution {
             dp[0][i] = points[0][i];
         }
 
-        // for each row, calculate the dp with max points.
         for (int i = 1; i< row; i++) {
             long[] prevRowDp = dp[i-1];
             
-            // Get the largest values when going from left to right.
             long[] prevDpLTR = new long[col];
             prevDpLTR[0] = prevRowDp[0];
             for (int j = 1; j < col; j++) {
                 prevDpLTR[j] = Math.Max(prevDpLTR[j-1] - 1, prevRowDp[j]);
             }
 
-            // Get the largest values from going from right to left.
             long[] prevDpRtL = new long[col];
             prevDpRtL[col-1] = prevRowDp[col-1];
             for (int j = col-2; j >=0; j--) {
