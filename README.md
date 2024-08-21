@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0014-longest-common-prefix) |
 | [0273-integer-to-english-words](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0344-reverse-string) |
+| [0664-strange-printer](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0664-strange-printer) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2502-sort-the-people) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0264-ugly-number-ii) |
+| [0664-strange-printer](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
