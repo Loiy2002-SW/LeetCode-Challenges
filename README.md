@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0014-longest-common-prefix) |
 | [0273-integer-to-english-words](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0344-reverse-string) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0664-strange-printer) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0273-integer-to-english-words) |
+| [0592-fraction-addition-and-subtraction](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1240-stone-game-ii) |
 ## Recursion
@@ -209,4 +211,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0476-number-complement) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
