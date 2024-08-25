@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Strongly Connected Component
 |  |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
