@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2035-count-sub-islands](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0870-magic-squares-in-grid](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0870-magic-squares-in-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2035-count-sub-islands) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
 |  |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -177,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0145-binary-tree-postorder-traversal) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -223,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0592-fraction-addition-and-subtraction) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
