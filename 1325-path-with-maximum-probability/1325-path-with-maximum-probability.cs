@@ -1,27 +1,43 @@
 public class Solution {
-    public double MaxProbability(int n, int[][] edges, double[] succProb, int start_node, int end_node) {
-        double[] maxProb = new double[n];
-        maxProb[start_node] = 1.0;
+    public double MaxProbability(int n, int[][] edges, double[] succProb, int start, int end) {
+        var visited = new bool[n];
+        var profit = new double[n];
+        var pq = new PriorityQueue<int, double>();
+        var graph = new Dictionary<int, Dictionary<int, double>>();
 
-        for (int i = 0; i < n - 1; i++) {
-            bool updated = false;
-            for (int j = 0; j < edges.Length; j++) {
-                int u = edges[j][0];
-                int v = edges[j][1];
-                double prob = succProb[j];
+        pq.Enqueue(start, 0);
+        profit[start] = 0;
 
-                if (maxProb[u] * prob > maxProb[v]) {
-                    maxProb[v] = maxProb[u] * prob;
-                    updated = true;
-                }
-                if (maxProb[v] * prob > maxProb[u]) {
-                    maxProb[u] = maxProb[v] * prob;
-                    updated = true;
+        for(int i = 0; i < n; i++)
+            profit[start] = 0;
+
+        for(int i = 0; i < succProb.Length; i++) {
+            if(!graph.ContainsKey(edges[i][0]))
+                graph[edges[i][0]] = new Dictionary<int, double>();
+            if(!graph.ContainsKey(edges[i][1]))
+                graph[edges[i][1]] = new Dictionary<int, double>();
+            graph[edges[i][0]][edges[i][1]] = succProb[i];
+            graph[edges[i][1]][edges[i][0]] = succProb[i];
+        }
+        
+        while(pq.Count > 0) {
+            var node = pq.Dequeue();
+            if(visited[node])
+                continue;
+            
+            visited[node] = true;
+
+            if(graph.ContainsKey(node)) {
+                foreach(var vertex in graph[node]) {
+                    var temp = (profit[node] == 0 ? 1 : profit[node]) * vertex.Value;
+                    if(!visited[vertex.Key] && temp > profit[vertex.Key]) {
+                        profit[vertex.Key] = temp;
+                        pq.Enqueue(vertex.Key, -temp);
+                    }
                 }
             }
-            if (!updated) break;
         }
 
-        return maxProb[end_node];
+        return profit[end];
     }
 }
