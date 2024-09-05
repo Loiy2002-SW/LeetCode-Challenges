@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2155-find-missing-observations](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2472-build-a-matrix-with-conditions) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0592-fraction-addition-and-subtraction](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1240-stone-game-ii) |
+| [2155-find-missing-observations](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0592-fraction-addition-and-subtraction](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2155-find-missing-observations](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2155-find-missing-observations) |
 ## Union Find
 |  |
 | ------- |
