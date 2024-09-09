@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2155-find-missing-observations](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2411-spiral-matrix-iv](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2727-number-of-senior-citizens) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2035-count-sub-islands) |
+| [2411-spiral-matrix-iv](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2472-build-a-matrix-with-conditions) |
 ## Graph
 |  |
@@ -249,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2155-find-missing-observations](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2411-spiral-matrix-iv) |
 ## Union Find
 |  |
 | ------- |
@@ -259,5 +262,6 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
