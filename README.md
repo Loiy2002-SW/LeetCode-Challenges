@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0040-combination-sum-ii) |
+| [0731-my-calendar-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0731-my-calendar-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0906-walking-robot-simulation) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0731-my-calendar-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
@@ -270,4 +274,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
