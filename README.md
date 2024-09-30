@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1240-stone-game-ii) |
 | [1325-path-with-maximum-probability](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1333-sort-the-jumbled-numbers) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0145-binary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0731-my-calendar-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
 | ------- |
