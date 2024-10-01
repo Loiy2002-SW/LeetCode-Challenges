@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0040-combination-sum-ii) |
+| [0088-merge-sorted-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0731-my-calendar-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0870-magic-squares-in-grid) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -102,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0344-reverse-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
