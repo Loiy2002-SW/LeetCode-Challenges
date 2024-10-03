@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1694-make-sum-divisible-by-p](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2502-sort-the-people) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1240-stone-game-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1694-make-sum-divisible-by-p) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
