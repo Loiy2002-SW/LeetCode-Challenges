@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0264-ugly-number-ii) |
+| [0567-permutation-in-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0567-permutation-in-string) |
 | [0870-magic-squares-in-grid](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0014-longest-common-prefix) |
 | [0273-integer-to-english-words](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0664-strange-printer) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |
@@ -183,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/0567-permutation-in-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Loiy2002-SW/LeetCode-Challenges/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search
 |  |
